@@ -8,6 +8,8 @@
 #        - Change database names in config/databases.yml#
 #        - Replace .gitignore  
 #        - Change database names in config/databases.yml
+#        - bundle install / bundle update / bundle install
+#        - rails generate rspec:install
 #  
 #############################################################################################
 */
